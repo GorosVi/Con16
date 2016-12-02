@@ -1,0 +1,1 @@
+start /d "%~dp0" cmd.exe /K "git status"
